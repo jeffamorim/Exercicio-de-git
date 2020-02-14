@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-size: 40pt;
+    font-family: monospace;
+}
+
+header{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 1080px;
+    background-size: cover;
+    background-image: url(https://images4.alphacoders.com/985/thumb-1920-985805.png);
+}

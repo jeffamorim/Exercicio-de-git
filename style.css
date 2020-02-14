@@ -6,6 +6,13 @@ body{
 h1{
     font-size: 40pt;
     font-family: monospace;
+    
+}
+
+h1:hover{
+    font-size: 43pt;
+    color: aqua;
+    height: auto;
 }
 
 header{
